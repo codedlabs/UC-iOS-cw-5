@@ -42,7 +42,7 @@
 
 
 
- <h1 align="right">التمرين ٢ </h1>
+ <h1 align="right">التمرين 2 </h1>
 
 <p dir="rtl">
 <img src="/cw2.gif" width="200" alt="alt_text" title="image_tooltip">

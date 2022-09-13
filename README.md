@@ -1,6 +1,28 @@
   <h1 align="right">التمرين 1 </h1>
 
+
 <p dir="rtl">
+<img src="/cw2.gif" width="200" alt="alt_text" title="image_tooltip">
+</p>
+
+<p dir="rtl">
+في هذا التمرين سنقوم ببناء تطبيق اختيار الايموجي</p>
+
+<p dir="rtl">
+1. قم بإنشاء تطبيق جديد في XCode.
+
+<p dir="rtl">
+2. قم بعمل مصفوفة تحتوي على أشكال الإيموجي، ستكون من نوع string.
+
+<p dir="rtl">
+3. قم بعرضها بشكل أفقي.
+
+
+
+
+ <h1 align="right"> التمرين الاضافي ✨✨✨ </h1>
+ 
+ <p dir="rtl">
 <img src="/cw1.png" width="200" alt="alt_text" title="image_tooltip">
 </p>
 
@@ -39,23 +61,3 @@
 
 <br>
 
-
-
-
- <h1 align="right"> التمرين الاضافي ✨✨✨ </h1>
-
-<p dir="rtl">
-<img src="/cw2.gif" width="200" alt="alt_text" title="image_tooltip">
-</p>
-
-<p dir="rtl">
-في هذا التمرين سنقوم ببناء تطبيق اختيار الايموجي</p>
-
-<p dir="rtl">
-1. قم بإنشاء تطبيق جديد في XCode.
-
-<p dir="rtl">
-2. قم بعمل مصفوفة تحتوي على أشكال الإيموجي، ستكون من نوع string.
-
-<p dir="rtl">
-3. قم بعرضها بشكل أفقي.
